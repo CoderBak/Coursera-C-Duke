@@ -1,0 +1,48 @@
+aaaaa bbbbb
+aabaa aaaab
+aaabb aaacc
+abcde edcba
+aaaa aaaa
+ababb cccde
+ababb bbcde
+abcdd abcde
+aaaaaa dddd
+eee!ee qqqqqq
+           
+      rrrrr
+            
+ a a  bcbcb
+
+\n\n\n\n\n ppppp
+pppppppppppppppppppppppppppppppppppppp qqqqq
+10111 11110
+11011 11110
+11101 11110
+01111 11110
+02121 00222
+AbCCc ooopq
+AAAAa aaaaA
+12Aaa 0PQpq
+12Aa2 2231p
+12345
+123 45
+1 2345
+ 1234
+pppp opppp
+p 12345
+pppp ppppoo
+popop opopoo
+ 12345
+1 12345
+22 12355
+122 12355
+1222 12355
+12222 155555
+1 1 1 1 1
+12 12 12 12 12
+55555 55555 1 1
+12345 1
+12355 22
+12355 122
+12355 1222
+155555 12222
