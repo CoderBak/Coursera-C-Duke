@@ -1,0 +1,60 @@
+Grading at Tue 09 Jan 2024 05:14:58 PM UTC
+**Testing broken implementation 10 **
+-------------------------------------
+
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+
+**Testing correct implementation **
+-------------------------------------
+
+Current Test: 1 2 1 3 5 7 2 4 6 9 -> Get: 4 Exp: 4
+Current Test: -> Get: 0 Exp: 0
+Current Test: 1 2 2 2 2 2 -> Get: 2 Exp: 2
+Current Test: 1 2 3 1 2 3 4 -> Get: 4 Exp: 4
+Current Test: -1 0 1 -2 0 1 2 -> Get: 4 Exp: 4
+Current Test: 0 -> Get: 1 Exp: 1
+Current Test: 1 2 -> Get: 2 Exp: 2
+Current Test: 1 -2 -> Get: 1 Exp: 1
+
+All test programs were handled correctly
+
+Overall Grade: PASSED
