@@ -123,8 +123,8 @@ int is_straight_at(deck_t * hand, size_t index, suit_t fs) {
 }
 
 hand_eval_t build_hand_from_match(deck_t * hand,
-				                  unsigned n,
-				                  hand_ranking_t what,
+                                  unsigned n,
+                                  hand_ranking_t what,
                                   size_t idx) {
     hand_eval_t ans;
     ans.ranking = what;
