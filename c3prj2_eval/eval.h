@@ -2,8 +2,8 @@
 #define EVAL_H
 #include "deck.h"
 struct hand_eval_tag {
-  hand_ranking_t ranking;
-  card_t *cards[5];
+    hand_ranking_t ranking;
+    card_t *cards[5];
 };
 typedef struct hand_eval_tag hand_eval_t;
 
